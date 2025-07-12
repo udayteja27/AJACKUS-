@@ -1,4 +1,5 @@
 AJACKUS Company Assignment
+
 This document provides a structured approach and helpful tips for completing the "Employee Directory Web Interface" assignment. Remember, the goal is to showcase your understanding of front-end development principles using HTML, CSS, JavaScript, and Freemarker templates.
 Step 1: Dashboard Functionality (JavaScript)
 Displaying Employees:
